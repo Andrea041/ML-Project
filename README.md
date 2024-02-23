@@ -1,1 +1,1 @@
-# Machine-Learning-Project
+# Image detecting project for Machine Learning Courses
