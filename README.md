@@ -1,1 +1,1 @@
-# Image recognition project for Machine Learning course
+# Image recognition for Machine Learning course
