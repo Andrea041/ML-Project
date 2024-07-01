@@ -1,5 +1,9 @@
 # Image recognition for Machine Learning course
 
+<p align="left">
+  <img src="[https://pbs.twimg.com/profile_images/545716709311520769/piLLa1iC_400x400.png](https://upload.wikimedia.org/wikipedia/commons/1/12/Convolutional_Layers_of_a_Convolutional_Neural_Network.svg)" alt="logo" style="width: 80px;"/>
+</p>
+
 ## Main goal
 The goal of the project is to train and evaluate one or more classification models. The MNIST dataset is used (grayscale images, 28x28).
 
