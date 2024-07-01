@@ -1,7 +1,7 @@
 # Image recognition for Machine Learning course
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Convolutional_Layers_of_a_Convolutional_Neural_Network.svg" alt="logo" style="width: 80px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Convolutional_Layers_of_a_Convolutional_Neural_Network.svg" alt="logo" style="width: 130px;"/>
 </p>
 
 ## Main goal
